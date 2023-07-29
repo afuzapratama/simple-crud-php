@@ -12,7 +12,7 @@
     <div class="container">
         <div class="col-lg-6 mx-auto">
             <div class="h3 text-center">Data Employer</div>
-            <a href="add.php" class="btn btn-primary mb-2">+ Add</a>
+            <a href="add.html" class="btn btn-primary mb-2">+ Add</a>
             <table class="table table-bordered">
                 <thead>
                     <tr>
