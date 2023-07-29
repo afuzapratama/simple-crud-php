@@ -27,4 +27,4 @@ Befor run in localhost you can upload the sql file to your database if you no ha
 
 ## :memo: Note
 
-This project use connection with PDO you can learn about PDO connection in there [w3scholl](https://www.w3schools.com/php/php_mysql_connect.asp)
+This project use connection with PDO you can learn about PDO connection in there [w3schools](https://www.w3schools.com/php/php_mysql_connect.asp)
