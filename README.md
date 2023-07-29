@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Simple Curd PHP</h1>
-  <h3>You Can Frok Or Clone This Repo</h3>
+  <h3>Read, Update, Delete (CRUD) di PHP & MySQL<h3>
+</div>
+
+<div align="center">
+    <h5>You Can Frok Or Clone This Repo</h5>
 </div>
 
 ## :dart: How To Setup
