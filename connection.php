@@ -3,9 +3,9 @@
 //Connecting With Database PDO
 
 $server = "localhost";
-$username = "root";
-$password = "Lonteq@123";
-$database = "crud";
+$username = "Username";
+$password = "Password";
+$database = "Database";
 
 $conn = new PDO("mysql:host=$server;dbname=$database", $username, $password);
 try {
